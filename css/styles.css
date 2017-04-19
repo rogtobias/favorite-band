@@ -1,0 +1,17 @@
+body {
+  background-image: url(http://immortalstudios.net/wp-content/uploads/2014/10/primus_regular_sm-1024x777.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+}
+
+.sidebar {
+  float: left;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  color: #17893f;
+  font-size: 60px;
+  text-align: center;
+}
