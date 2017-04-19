@@ -8,10 +8,29 @@ body {
 .sidebar {
   float: left;
   background-color: #f2f2f2;
+  opacity: 0.75;
+  padding: 5px;
 }
 
 h1 {
   color: #17893f;
   font-size: 60px;
   text-align: center;
+}
+
+.bike {
+  float: right;
+  width: 400px;
+  padding: 10px;
+}
+
+.babies {
+  float: left;
+  width: 400px;
+  padding: 10px;
+}
+
+.background {
+  color: green;
+  font-size: 20px;
 }
